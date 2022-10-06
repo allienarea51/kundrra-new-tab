@@ -5,7 +5,7 @@ This chrome extension helps to get new Karan Kundrra background with every new t
 After downloading the zip file from the github do the following :
 
 
-1) Unzip the file.
+1)Unzip the file.
 
 2)Click on the ellpsis (three dots) menu in the chrome and -> More tools -> Extensions
 
