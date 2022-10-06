@@ -1,0 +1,11 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+    "name": "Karant Tab",
+    "version": "1.0",
+    "manifest_version": 2,
+    "description": "Get new background with every tab",
+    "chrome_url_overrides": {
+        "newtab": "index.html"
+    }
+}
